@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+} 
+
+li {
+    list-style: none;
+}
+
+.home {
+    height: 100vh;
+    background: #171718;
+}
+
+.img {
+    width: 100%;
+}
+
+.footer {
+    background: #171718;
+}
